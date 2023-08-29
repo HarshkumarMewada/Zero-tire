@@ -29,8 +29,8 @@ sx={{ mb: '18px' , mt:'80px'}}>
         </Box>
       
         <div className="contact-form-container">
-         <input type="text" placeholder="yourmail@gmail.com" />
-         <button className="secondary-button">Submit</button>
+         <input type="text" placeholder="Email Address" />
+         <button className="secondary-button" style={{marginLeft:'20px'}}>Subscribe</button>
        </div>
       </Box>
     </CardContent>

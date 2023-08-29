@@ -61,7 +61,7 @@ const Navbar = () => {
         <a href="">Company</a>
         <a href="">Support</a>
         
-        <button className="primary-button">Login</button>
+        <button className="primary-button" style={{marginRight:'20px'}}>Login</button>
         <button className="primary-button">Sign up</button>
       </div>
       <div className="navbar-menu-container">

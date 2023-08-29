@@ -18,7 +18,7 @@ const Home = () => {
           ZeroTier lets you build modern, secure multi-point virtualized networks of almost any type. From robust peer-to-peer networking to multi-cloud mesh infrastructure, we enable global connectivity with the simplicity of a local network.
           </p>
           <div style={{display:'flex'}}>
-          <button className="secondary-button">
+          <button className="secondary-button" style={{marginRight:'20px'}}>
             Get ZeroTier
           </button>
           <button className="primary-button">
