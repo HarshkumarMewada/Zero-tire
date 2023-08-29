@@ -62,7 +62,7 @@ const Navbar = () => {
         <a href="">Support</a>
         
         <button className="primary-button" style={{marginRight:'20px'}}>Login</button>
-        <button className="primary-button">Sign up</button>
+        <button className="secondary-button" style={{display:'inline'}}>Sign up</button>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />

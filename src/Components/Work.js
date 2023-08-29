@@ -119,7 +119,7 @@ const Work = () => {
             </div>
             <h2>{data.title}</h2>
             <p>{data.text}</p>
-            <button className="secondary-button">{data.btnText}</button>
+            <button className="secondary-button" style={{margin:'20px'}}>{data.btnText}</button>
           </Grid>
         ))}
         </Grid>      
